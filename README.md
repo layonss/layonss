@@ -1,4 +1,4 @@
-##### Olá pessoal 👋
+##### Sejam todos bem-vindos 👋
 
 ### Detalhes 
 <div align="center">
